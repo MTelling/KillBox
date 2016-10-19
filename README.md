@@ -1,6 +1,12 @@
 # KillBox
 
-KillBox is a project build for JacobsHack 2016. 
+KillBox is a project build for JacobsHack 2016.
+
+https://devpost.com/software/killbox
+
+The box                    |  Inside                   | Arduino                   | Switch under lid
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](/pictures/1.jpg)  |  ![](/pictures/2.jpg) | ![](/pictures/3.jpg) | ![](/pictures/4.jpg)
 
 ## Inspiration
 Usually if you have physical access to a server, it doesn't matter if you have full disk encryption or not. We wanted to make a server resistant to this. 
