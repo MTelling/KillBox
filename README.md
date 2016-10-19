@@ -8,6 +8,11 @@ The box                    |  Inside                   | Arduino                
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](/pictures/1.jpg)  |  ![](/pictures/2.jpg) | ![](/pictures/3.jpg) | ![](/pictures/4.jpg)
 
+The project won 3 prizes:
+* Most technically challenging project
+* CLIQZ best security / privacy focussed project award
+* Bloomberg best project
+
 ## Inspiration
 Usually if you have physical access to a server, it doesn't matter if you have full disk encryption or not. We wanted to make a server resistant to this. 
 
